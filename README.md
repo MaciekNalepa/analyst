@@ -59,7 +59,7 @@ The BPMN model describes the business reality of the process, while the UML mode
 
 # Wersja Polska
 
-Analiza biznesowa – modelowanie BPMN i UML
+**Analiza biznesowa – modelowanie BPMN i UML**
 
 Ten projekt prezentuje umiejętności modelowania procesów biznesowych z wykorzystaniem notacji BPMN 2.0 w rzeczywistym scenariuszu zawodów sportowych. Model opisuje kompletną procedurę startu zawodnika podczas krajowych zawodów w skokach do wody — od momentu otrzymania informacji o zaplanowanym skoku aż do przypisania ocen sędziowskich.
 
