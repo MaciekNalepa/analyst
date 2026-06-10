@@ -2,7 +2,7 @@
 
 [Wersja polska](#wersja-polska)
 
-**Business Analysis Portfolio – BPMN and UML Modeling**
+**Business Analysis – BPMN and UML Modeling**
 
 This project demonstrates business process modeling skills using BPMN 2.0 notation in a real-world sports competition scenario. The model describes the complete start procedure of a diver during a national diving competition — from the moment the athlete receives information about the scheduled dive to the assignment of judges’ scores.
 
