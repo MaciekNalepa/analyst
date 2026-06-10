@@ -85,17 +85,17 @@ Proces rozpoczyna się w momencie, gdy zawodnik otrzymuje informację o zaplanow
 
 **Model obejmuje**
 
--weryfikację zgłoszenia skoku
--obsługę korekt zgłoszenia
--scenariusze wycofania zawodnika
--przygotowanie zawodnika do skoku
--autoryzację startu przez sędziego głównego
--wykonanie skoku
--weryfikację skoku
--przypisanie ocen sędziowskich / przypisanie oceny zero
--zakończenie procesu
+- weryfikację zgłoszenia skoku
+- obsługę korekt zgłoszenia
+- scenariusze wycofania zawodnika
+- przygotowanie zawodnika do skoku
+- autoryzację startu przez sędziego głównego
+- wykonanie skoku
+- weryfikację skoku
+- przypisanie ocen sędziowskich / przypisanie oceny zero
+- zakończenie procesu
 
-**Przyszły rozwój**
+**Rozwój projektu**
 
 Model BPMN stanowi warstwę procesu biznesowego większego przedsięwzięcia analityczno-projektowego. Kolejny etap skupi się na modelowaniu systemu informatycznego w UML, obejmując komponenty odpowiedzialne za:
 
