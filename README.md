@@ -10,14 +10,14 @@ to demonstrate BPMN 2.0 modeling skills, including process structure, decision l
 to develop an understanding of how a real-world operational process works in practice
 to provide a foundation for future system design work, where the business process is translated into system architecture (UML-based analysis and design)
 
-Process Description
+**Process Description**
 
 The process begins when the athlete receives information about the scheduled dive.
 Before the dive can be performed, the announced dive data must be verified. If any inconsistencies are detected, a correction request is issued, and the athlete may either provide corrected information or withdraw from the attempt.
 Once the announcement is accepted, the athlete takes the starting position and waits for the chief judge’s signal. After receiving the signal, the dive is executed and then validated according to competition rules.
 Depending on the outcome of the validation, the dive is either scored by the judges or assigned a score of zero in the case of an invalid attempt.
 
-Key BPMN Elements
+**Key BPMN Elements**
 
 Exclusive Gateways (XOR)
 Message Events
@@ -26,9 +26,8 @@ Error Handling Paths
 Alternative Process Flows
 Start and End Events
 
-Process Scope
+**The model covers**
 
-The model covers:
 dive announcement verification
 correction handling
 athlete withdrawal scenarios
@@ -39,11 +38,11 @@ dive validation
 judges’ score assignment / zero score assignment
 process completion
 
-##Standard
+**Standard**
 
 BPMN 2.0
 
-Future Development
+**Future Development**
 
 This BPMN model represents the business-process layer of a larger analytical and system design initiative.
 The next stage will focus on UML-based modeling of the supporting information system, including components responsible for:
