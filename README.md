@@ -1,22 +1,24 @@
 # Analyst-portfolio
 **Business Analysis Portfolio – BPMN and UML Modeling**
 
-This project demonstrates business process modeling skills using BPMN 2.0 notation in a real-world sports competition scenario.
-The model describes the complete start procedure of a diver during a national diving competition — from the moment the athlete receives information about the scheduled dive to the assignment of judges’ scores.
+This project demonstrates business process modeling skills using BPMN 2.0 notation in a real-world sports competition scenario. The model describes the complete start procedure of a diver during a national diving competition — from the moment the athlete receives information about the scheduled dive to the assignment of judges’ scores.
 
--Project Goal
+##Project Goal
+
 The purpose of this project is:
 to demonstrate BPMN 2.0 modeling skills, including process structure, decision logic, and exception handling
 to develop an understanding of how a real-world operational process works in practice
 to provide a foundation for future system design work, where the business process is translated into system architecture (UML-based analysis and design)
 
 Process Description
+
 The process begins when the athlete receives information about the scheduled dive.
 Before the dive can be performed, the announced dive data must be verified. If any inconsistencies are detected, a correction request is issued, and the athlete may either provide corrected information or withdraw from the attempt.
 Once the announcement is accepted, the athlete takes the starting position and waits for the chief judge’s signal. After receiving the signal, the dive is executed and then validated according to competition rules.
 Depending on the outcome of the validation, the dive is either scored by the judges or assigned a score of zero in the case of an invalid attempt.
 
 Key BPMN Elements
+
 Exclusive Gateways (XOR)
 Message Events
 Intermediate Events
@@ -25,6 +27,7 @@ Alternative Process Flows
 Start and End Events
 
 Process Scope
+
 The model covers:
 dive announcement verification
 correction handling
@@ -36,15 +39,18 @@ dive validation
 judges’ score assignment / zero score assignment
 process completion
 
-Standard
+##Standard
+
 BPMN 2.0
 
 Future Development
+
 This BPMN model represents the business-process layer of a larger analytical and system design initiative.
 The next stage will focus on UML-based modeling of the supporting information system, including components responsible for:
-collecting judges’ scores
-validating scoring data
-calculating final results
-managing competition rankings
-storing competition data
+-collecting judges’ scores
+-validating scoring data
+-calculating final results
+-managing competition rankings
+-storing competition data
+
 The BPMN model describes the business reality of the process, while the UML models will describe the information system required to support and operate it.
