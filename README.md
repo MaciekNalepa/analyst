@@ -57,7 +57,7 @@ The BPMN model describes the business reality of the process, while the UML mode
 
 ***
 
-PL
+Wersja Polska
 
 Analiza biznesowa – modelowanie BPMN i UML
 
