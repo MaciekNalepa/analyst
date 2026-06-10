@@ -52,7 +52,7 @@ The next stage will focus on UML-based modeling of the supporting information sy
 - managing competition rankings
 - storing competition data
 
-The BPMN model describes the business reality of the process, while the UML models will describe the information system required to support and operate it.
+The BPMN model describes the business reality of the process, while the UML models will describe the information system required to support and operate it.<br><br>
 
 
 ***
