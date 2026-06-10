@@ -54,9 +54,9 @@ The next stage will focus on UML-based modeling of the supporting information sy
 
 The BPMN model describes the business reality of the process, while the UML models will describe the information system required to support and operate it.
 
-<br>
+
 ***
-<br>
+
 *Wersja polska*
 
 Analiza biznesowa – modelowanie BPMN i UML
