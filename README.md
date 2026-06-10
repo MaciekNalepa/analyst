@@ -4,7 +4,7 @@
 This project demonstrates business process modeling skills using BPMN 2.0 notation in a real-world sports competition scenario.
 The model describes the complete start procedure of a diver during a national diving competition — from the moment the athlete receives information about the scheduled dive to the assignment of judges’ scores.
 
-Project Goal
+-Project Goal
 The purpose of this project is:
 to demonstrate BPMN 2.0 modeling skills, including process structure, decision logic, and exception handling
 to develop an understanding of how a real-world operational process works in practice
