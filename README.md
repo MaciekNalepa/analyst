@@ -21,22 +21,22 @@ Depending on the outcome of the validation, the dive is either scored by the jud
 
 - Exclusive Gateways (XOR)
 - Message Events
-Intermediate Events
-Error Handling Paths
-Alternative Process Flows
-Start and End Events
+- Intermediate Events
+- Error Handling Paths
+- Alternative Process Flows
+- Start and End Events
 
 **The model covers**
 
-dive announcement verification
-correction handling
-athlete withdrawal scenarios
-athlete preparation for the dive
-start authorization by the chief judge
-dive execution
-dive validation
-judges’ score assignment / zero score assignment
-process completion
+- dive announcement verification
+- correction handling
+- athlete withdrawal scenarios
+- athlete preparation for the dive
+- start authorization by the chief judge
+- dive execution
+- dive validation
+- judges’ score assignment / zero score assignment
+- process completion
 
 **Standard**
 
@@ -46,10 +46,11 @@ BPMN 2.0
 
 This BPMN model represents the business-process layer of a larger analytical and system design initiative.
 The next stage will focus on UML-based modeling of the supporting information system, including components responsible for:
--collecting judges’ scores
--validating scoring data
--calculating final results
--managing competition rankings
--storing competition data
+
+- collecting judges’ scores
+- validating scoring data
+- calculating final results
+- managing competition rankings
+- storing competition data
 
 The BPMN model describes the business reality of the process, while the UML models will describe the information system required to support and operate it.
