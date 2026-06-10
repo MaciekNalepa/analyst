@@ -1,2 +1,2 @@
 # analyst-portfolio
-Portfolio of business analisysis project including BPMN, UML.
+Business Analysis Portfolio – BPMN and UML Modeling
