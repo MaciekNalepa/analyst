@@ -57,4 +57,52 @@ The BPMN model describes the business reality of the process, while the UML mode
 
 ## Wersja polska
 
-lorem ipsum
+Analiza biznesowa – modelowanie BPMN i UML
+
+Ten projekt prezentuje umiejętności modelowania procesów biznesowych z wykorzystaniem notacji BPMN 2.0 w rzeczywistym scenariuszu zawodów sportowych. Model opisuje kompletną procedurę startu zawodnika podczas krajowych zawodów w skokach do wody — od momentu otrzymania informacji o zaplanowanym skoku aż do przypisania ocen sędziowskich.
+
+**Cel projektu**
+
+Demonstracja umiejętności modelowania w BPMN 2.0, obejmujących strukturę procesu, logikę decyzyjną oraz obsługę wyjątków
+rozwinięcie zrozumienia, jak w praktyce działa rzeczywisty proces operacyjny
+stworzenie fundamentu pod przyszłe prace projektowe w zakresie projektowania systemów, gdzie proces biznesowy jest przekształcany w architekturę systemu (analiza i projektowanie w UML)
+
+**Opis procesu**
+
+Proces rozpoczyna się w momencie, gdy zawodnik otrzymuje informację o zaplanowanym skoku. Przed wykonaniem skoku dane dotyczące zgłoszenia muszą zostać zweryfikowane. W przypadku wykrycia niezgodności zgłaszana jest prośba o korektę, a zawodnik może przekazać poprawione dane albo wycofać się z próby. Po zaakceptowaniu zgłoszenia zawodnik zajmuje pozycję startową i oczekuje na sygnał sędziego głównego. Po jego otrzymaniu skok zostaje wykonany, a następnie zweryfikowany zgodnie z zasadami zawodów. W zależności od wyniku weryfikacji skok jest oceniany przez sędziów lub otrzymuje ocenę zero w przypadku próby uznanej za nieważną.
+
+**Kluczowe elementy BPMN**
+
+- Bramki wyłączne (XOR)
+- Zdarzenia komunikacyjne (Message Events)
+- Zdarzenia pośrednie (Intermediate Events)
+- Ścieżki obsługi błędów
+- Alternatywne przepływy procesu
+- Zdarzenia startowe i końcowe
+- Zakres modelu
+
+**Model obejmuje**
+
+-weryfikację zgłoszenia skoku
+-obsługę korekt zgłoszenia
+-scenariusze wycofania zawodnika
+-przygotowanie zawodnika do skoku
+-autoryzację startu przez sędziego głównego
+-wykonanie skoku
+-weryfikację skoku
+-przypisanie ocen sędziowskich / przypisanie oceny zero
+-zakończenie procesu
+
+**Przyszły rozwój**
+
+Model BPMN stanowi warstwę procesu biznesowego większego przedsięwzięcia analityczno-projektowego. Kolejny etap skupi się na modelowaniu systemu informatycznego w UML, obejmując komponenty odpowiedzialne za:
+
+- zbieranie ocen sędziów
+- walidację danych punktowych
+- obliczanie wyników końcowych
+- zarządzanie rankingami zawodów
+- przechowywanie danych konkursowych
+
+Model BPMN opisuje rzeczywistość biznesową procesu, natomiast modele UML będą przedstawiały system informatyczny wymagany do jego wsparcia i obsługi.
+
+
