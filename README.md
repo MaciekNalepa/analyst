@@ -1,6 +1,6 @@
 # Analyst-portfolio
 
-[PL](Wersja-polska)
+[PL](#Wersja-polska)
 
 **Business Analysis – BPMN and UML Modeling**
 
