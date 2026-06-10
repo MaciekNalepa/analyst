@@ -22,7 +22,7 @@ Depending on the outcome of the validation, the dive is either scored by the jud
 
 **Key BPMN Elements**
 
-- Exclusive Gateways (XOR)
+- Exclusive Gateways 
 - Message Events
 - Intermediate Events
 - Error Handling Paths
@@ -75,9 +75,9 @@ Proces rozpoczyna się w momencie, gdy zawodnik otrzymuje informację o zaplanow
 
 **Kluczowe elementy BPMN**
 
-- Bramki wyłączne (XOR)
-- Zdarzenia komunikacyjne (Message Events)
-- Zdarzenia pośrednie (Intermediate Events)
+- Bramki wyłączne 
+- Zdarzenia komunikacyjne 
+- Zdarzenia pośrednie 
 - Ścieżki obsługi błędów
 - Alternatywne przepływy procesu
 - Zdarzenia startowe i końcowe
