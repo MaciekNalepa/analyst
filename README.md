@@ -38,10 +38,6 @@ Depending on the outcome of the validation, the dive is either scored by the jud
 - judges’ score assignment / zero score assignment
 - process completion
 
-**Standard**
-
-BPMN 2.0
-
 **Future Development**
 
 This BPMN model represents the business-process layer of a larger analytical and system design initiative.
