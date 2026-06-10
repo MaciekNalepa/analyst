@@ -1,6 +1,6 @@
 # Analyst-portfolio
 
-[Wersja polska](#wersja-polska)
+[Wersja polska](#Wersja-polska)
 
 **Business Analysis – BPMN and UML Modeling**
 
@@ -57,7 +57,7 @@ The BPMN model describes the business reality of the process, while the UML mode
 
 ***
 
-*Wersja polska*
+*Wersja-polska*
 
 Analiza biznesowa – modelowanie BPMN i UML
 
