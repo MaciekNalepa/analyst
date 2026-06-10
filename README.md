@@ -19,8 +19,8 @@ Depending on the outcome of the validation, the dive is either scored by the jud
 
 **Key BPMN Elements**
 
-Exclusive Gateways (XOR)
-Message Events
+- Exclusive Gateways (XOR)
+- Message Events
 Intermediate Events
 Error Handling Paths
 Alternative Process Flows
