@@ -1,4 +1,4 @@
-# Analyst-portfolio
+# Analyst
 
 [PL](#PL)
 
